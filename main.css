@@ -1,0 +1,20 @@
+body {
+    font-family: 'NanumSquare', sans-serif !important;
+}
+
+.div1 {
+    height: 600px;
+    width: 100%;
+    background-image: url('image/div1.png');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+
+.input2 {
+    height: 15px;
+    width: 30px;
+}
